@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/why">
+        <file>beeb.wav</file>
+    </qresource>
+</RCC>
